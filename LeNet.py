@@ -165,4 +165,4 @@ if __name__ == '__main__':
         plt.xlabel("Epoch #")
         plt.ylabel("Accuracy")
         plt.legend(loc="lower left")
-        plt.savefig(args["plot1"])
+        plt.savefig(args["plot"])
